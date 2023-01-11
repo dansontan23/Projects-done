@@ -6,10 +6,15 @@ Some games are unable to be uploaded due to the maximum size being 25mb for gith
 Javascript 
 -------------------------------------
 playground-website - Coded in vanilla JS, Bootstrap. Implemented tradingview's widget, javascript to show current time, weather, etc.
+
 solarSystem - Coded in p5js, Simple physics engine that uses vector programming to achieve realistic physics
+
 noisy grid - Coded in p5js, Simple physics engine that uses vector programming to achieve realistic physics
+
 drawing app - coded in p5js, simple canvas game where users are able to draw and erase, with many other functionalities
+
 angrybirds - Coded in p5js, Simple physics game that uses vector programming to achieve realistic physics, a copy of angry birds without the graphics.
+
 asteroidGame - Coded in p5js, Simple physics game that uses vector programming to achieve realistic physics, a copy of asteroid with simple graphics.
 
 Python
